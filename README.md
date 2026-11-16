@@ -38,7 +38,7 @@ Gebruikte apparaten: router `2911`, switch `2960-24TT` (of `3560-24PS` waar de s
 | [1.4 IPv6 Addressing](1.0_Network_Infrastructure_and_Connectivity/1.4_IPv6_Addressing/) | - |
 | [1.5 Wireless Principles](1.0_Network_Infrastructure_and_Connectivity/1.5_Wireless_Principles/) | - |
 | [1.6 Client Connectivity](1.0_Network_Infrastructure_and_Connectivity/1.6_Client_Connectivity/) | - |
-| [1.7 DHCPv4](1.0_Network_Infrastructure_and_Connectivity/1.7_DHCPv4/) | 2 |
+| [1.7 DHCPv4](1.0_Network_Infrastructure_and_Connectivity/1.7_DHCPv4/) | 3 |
 
 ### [2.0 Switching and Network Access](2.0_Switching_and_Network_Access/) (25%)
 
