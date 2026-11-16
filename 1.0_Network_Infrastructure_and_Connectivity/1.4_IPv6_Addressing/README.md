@@ -4,4 +4,6 @@ Domein: [Network Infrastructure and Connectivity](../) (25% van het examen)
 
 ## Labs
 
-_Nog geen labs._
+| Lab | Titel | Packet Tracer | Opdracht |
+|---|---|---|---|
+| 1.4.1 | Magazijn onbereikbaar | [1.4.1_magazijn_onbereikbaar.pkt](1.4.1_Magazijn_onbereikbaar/1.4.1_magazijn_onbereikbaar.pkt) | [opdracht.md](1.4.1_Magazijn_onbereikbaar/opdracht.md) |
