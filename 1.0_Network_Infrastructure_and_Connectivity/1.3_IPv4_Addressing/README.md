@@ -12,3 +12,4 @@ Domein: [Network Infrastructure and Connectivity](../) (25% van het examen)
 | 1.3.4 | Nieuw netwerk productielocatie | [1.3.4_nieuw_netwerk_productielocatie.pkt](1.3.4_Nieuw_netwerk_productielocatie/1.3.4_nieuw_netwerk_productielocatie.pkt) | [opdracht.md](1.3.4_Nieuw_netwerk_productielocatie/opdracht.md) |
 | 1.3.5 | Storing na WAN-migratie | [1.3.5_storing_na_wan-migratie.pkt](1.3.5_Storing_na_WAN-migratie/1.3.5_storing_na_wan-migratie.pkt) | [opdracht.md](1.3.5_Storing_na_WAN-migratie/opdracht.md) |
 | 1.3.6 | Geen internetverbinding | [1.3.6_geen_internetverbinding.pkt](1.3.6_Geen_internetverbinding/1.3.6_geen_internetverbinding.pkt) | [opdracht.md](1.3.6_Geen_internetverbinding/opdracht.md) |
+| 1.3.7 | Eindlab Bakkerij De Korrel | [1.3.7_eindlab_bakkerij_de_korrel.pkt](1.3.7_Eindlab_Bakkerij_De_Korrel/1.3.7_eindlab_bakkerij_de_korrel.pkt) | [opdracht.md](1.3.7_Eindlab_Bakkerij_De_Korrel/opdracht.md) |
