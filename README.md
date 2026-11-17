@@ -44,7 +44,7 @@ Gebruikte apparaten: router `2911`, switch `2960-24TT` (of `3560-24PS` waar de s
 
 | Leerdoel | Labs |
 |---|---|
-| [2.1 Infrastructure Connectivity](2.0_Switching_and_Network_Access/2.1_Infrastructure_Connectivity/) | 2 |
+| [2.1 Infrastructure Connectivity](2.0_Switching_and_Network_Access/2.1_Infrastructure_Connectivity/) | 3 |
 | [2.2 Edge Host Connectivity](2.0_Switching_and_Network_Access/2.2_Edge_Host_Connectivity/) | - |
 | [2.3 CDP and LLDP](2.0_Switching_and_Network_Access/2.3_CDP_and_LLDP/) | - |
 | [2.4 L2 L3 Troubleshooting](2.0_Switching_and_Network_Access/2.4_L2_L3_Troubleshooting/) | - |
