@@ -32,7 +32,7 @@ Gebruikte apparaten: router `2911`, switch `2960-24TT` (of `3560-24PS` waar de s
 
 | Leerdoel | Labs |
 |---|---|
-| [1.1 Interface and Cable Issues](1.0_Network_Infrastructure_and_Connectivity/1.1_Interface_and_Cable_Issues/) | 1 |
+| [1.1 Interface and Cable Issues](1.0_Network_Infrastructure_and_Connectivity/1.1_Interface_and_Cable_Issues/) | 2 |
 | [1.2 Virtualization](1.0_Network_Infrastructure_and_Connectivity/1.2_Virtualization/) | - |
 | [1.3 IPv4 Addressing](1.0_Network_Infrastructure_and_Connectivity/1.3_IPv4_Addressing/) | 7 |
 | [1.4 IPv6 Addressing](1.0_Network_Infrastructure_and_Connectivity/1.4_IPv6_Addressing/) | 9 |

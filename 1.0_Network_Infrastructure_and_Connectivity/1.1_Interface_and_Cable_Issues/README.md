@@ -7,3 +7,4 @@ Domein: [Network Infrastructure and Connectivity](../) (25% van het examen)
 | Lab | Titel | Packet Tracer | Opdracht |
 |---|---|---|---|
 | 1.1.1 | Wat zegt de interface? | [1.1.1_wat_zegt_de_interface.pkt](1.1.1_Wat_zegt_de_interface/1.1.1_wat_zegt_de_interface.pkt) | [opdracht.md](1.1.1_Wat_zegt_de_interface/opdracht.md) |
+| 1.1.2 | Klachten over het netwerk | [1.1.2_klachten_over_het_netwerk.pkt](1.1.2_Klachten_over_het_netwerk/1.1.2_klachten_over_het_netwerk.pkt) | [opdracht.md](1.1.2_Klachten_over_het_netwerk/opdracht.md) |
