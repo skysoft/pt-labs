@@ -11,3 +11,4 @@ Domein: [Network Infrastructure and Connectivity](../) (25% van het examen)
 | 1.4.3 | Nieuwe werkplekken zonder adres | [1.4.3_nieuwe_werkplekken_zonder_adres.pkt](1.4.3_Nieuwe_werkplekken_zonder_adres/1.4.3_nieuwe_werkplekken_zonder_adres.pkt) | [opdracht.md](1.4.3_Nieuwe_werkplekken_zonder_adres/opdracht.md) |
 | 1.4.4 | Storing na onderhoudsavond | [1.4.4_storing_na_onderhoudsavond.pkt](1.4.4_Storing_na_onderhoudsavond/1.4.4_storing_na_onderhoudsavond.pkt) | [opdracht.md](1.4.4_Storing_na_onderhoudsavond/opdracht.md) |
 | 1.4.5 | Onbetrouwbare verbindingen | [1.4.5_onbetrouwbare_verbindingen.pkt](1.4.5_Onbetrouwbare_verbindingen/1.4.5_onbetrouwbare_verbindingen.pkt) | [opdracht.md](1.4.5_Onbetrouwbare_verbindingen/opdracht.md) |
+| 1.4.6 | Klachten over internettoegang | [1.4.6_klachten_over_internettoegang.pkt](1.4.6_Klachten_over_internettoegang/1.4.6_klachten_over_internettoegang.pkt) | [opdracht.md](1.4.6_Klachten_over_internettoegang/opdracht.md) |
